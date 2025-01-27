@@ -1,74 +1,62 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+ProgCompEjercicio2
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Índice
+Descripción
+Características
+Instalación
+Uso
+Tecnologías utilizadas
+Contribución
+Licencia
+Contacto
 
-## Available Scripts
+Descripción
+ProgCompEjercicio2 es un proyecto desarrollado en React. Formulario de registro con datos que se guardaran en Firebase (Firestore Database). Este proyecto forma parte de Examen evaluado Programacion de componentes del instituto Profesional Iplacex.
 
-In the project directory, you can run:
+Características
+Este es un formulario creado con React configurado con react-simple-validator para validaciones. Conecta a la aplicacion a firebase y guarda los datos del formulario en Firestore Database.
+Instalación
+Sigue estos pasos para instalar y ejecutar el proyecto localmente:
 
-### `npm start`
+Clonar el repositorio:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+bash
+Copiar
+Editar
+git clone https://github.com/EmilioRoblesL/ProgCompEjercicio2.git
+cd ProgCompEjercicio2
+Instalar dependencias:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Asegúrate de tener Node.js instalado. Luego, ejecuta:
 
-### `npm test`
+bash
+Copiar
+Editar
+npm install
+Ejecutar la aplicación:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+bash
+Copiar
+Editar
+npm start
+La aplicación estará disponible en http://localhost:3000.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Tecnologías utilizadas
+Html
+Css
+JavaScript
+React
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Contribución
+Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Haz un fork del repositorio.
+Crea una nueva rama (git checkout -b feature/nueva-funcionalidad).
+Realiza tus cambios y haz commit (git commit -m 'Añadir nueva funcionalidad').
+Sube tus cambios (git push origin feature/nueva-funcionalidad).
+Abre un Pull Request.
+Licencia
+Este proyecto está bajo la Licencia [Instituto Profesional Iplacex].
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# ProgCompEjercicio2
->>>>>>> b844ba53f08a41c92394203072a91c0dc9bdf0dc
+Contacto Desarrollado por [Emilio Robles L - Gabriela Lopez L]. Puedes contactarnos a través del correo eroblesl@alumno.iplacex.cl, gflopezl@alumno.iplacex.cl.
